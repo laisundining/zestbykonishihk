@@ -2,14 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
-    --bgColor: rgb(0, 0, 0);
+    --bgColor: rgb(255, 255, 255);
     --accentColor: #F8F2ED;
     --font: 'Karla', sans-serif;
 }
 
 body {
     background-color: var(--bgColor);
-    background-image: url("./assets/ZEST.png");
+    background-image: url("./assets/ZEST_.png");
     background-size: 120%;
 }
 
